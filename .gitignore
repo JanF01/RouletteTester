@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/TheRoulette/TheRoulette.sln
+/TheRoulette/TheRoulette/TheRoulette.vcxproj.filters
+/TheRoulette/TheRoulette/TheRoulette.vcxproj
